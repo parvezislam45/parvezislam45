@@ -91,11 +91,11 @@
 ###
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazrat-Ali9&layout=compact&theme=merko" alt=Hazrat-Ali9 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvez-Islam&layout=compact&theme=merko" alt=Hazrat-Ali9 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hazrat-Ali9&show_icons=true&locale=en&theme=merko" alt="Hazrat-Ali9" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Parvez-Islam&show_icons=true&locale=en&theme=merko" alt="Parvez" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazrat-Ali9&theme=merko" alt="Hazrat-Ali9" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Parvez-Islam&theme=merko" alt="Hazrat-Ali9" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
