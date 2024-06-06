@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.postimg.cc/90CmcfMg/Whats-App-Image-2024-06-06-at-2-56-49-PM.jpg"  />
+  <img height="300" src=""  />
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="center">I'm a Hazrat Ali Software Engineer From Bangladesh</h1>
+<h1 align="center">I am Parvez Islam Full Stack Web Developer</h1>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Hello, I'm Hazrat Ali, a dedicated Software Engineer with a passion for crafting robust and innovative solutions. My journey in the world of technology has been an exciting exploration, and I'm thrilled to share a bit about myself with you.<br><br>Proficient in MERN Stack and Python: I specialize in MERN (MongoDB, Express.js, React, Node.js) stack development, harnessing the power of these technologies to build dynamic and scalable applications. Additionally, my proficiency extends to Python, where I've had the pleasure of working on diverse projects, including those leveraging the Django framework.</p>
+<p align="left">Hello, I'm Parvez Islam, a dedicated Software Engineer with a passion for crafting robust and innovative solutions. My journey in the world of technology has been an exciting exploration, and I'm thrilled to share a bit about myself with you.<br><br>Proficient in MERN Stack and Python: I specialize in MERN (MongoDB, Express.js, React, Node.js) stack development, harnessing the power of these technologies to build dynamic and scalable applications. Additionally, my proficiency extends to Python, where I've had the pleasure of working on diverse projects, including those leveraging the Django framework.</p>
 
 ###
 
