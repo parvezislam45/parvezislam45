@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.postimg.cc/159BZ9mG/my-(1).png"  />
+  <img height="800" src="https://i.postimg.cc/159BZ9mG/my-(1).png"  />
 </div>
 
 <h1 align="center">I am Parvez Islam</h1>
