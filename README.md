@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/parvezislam45">
-<img width="100%"height='35%' src="https://i.postimg.cc/159BZ9mG/my-(1).png" alt="Parvez Islam Profile Banner"/>
+<img width="100%"src="https://i.postimg.cc/vTBfKmMQ/my-(1)-(1).png" alt="Parvez Islam Profile Banner"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=65&lines=PARVEZ+ISLAM+%E2%9C%A8;FULL+STACK+WEB+DEVELOPER;REACT+%7C+NEXT.JS+%7C+NODE.JS;PYTHON+%7C+DJANGO+%7C+EXPRESS.JS;BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%9A%80" alt="Animated developer introduction"/>
