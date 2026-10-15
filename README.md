@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/parvezislam45">
-<img width="100%" src="https://i.postimg.cc/159BZ9mG/my-(1).png" alt="Parvez Islam Profile Banner"/>
+<img width="70%" src="https://i.postimg.cc/159BZ9mG/my-(1).png" alt="Parvez Islam Profile Banner"/>
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=800&height=65&lines=PARVEZ+ISLAM+%E2%9C%A8;FULL+STACK+WEB+DEVELOPER;REACT+%7C+NEXT.JS+%7C+NODE.JS;PYTHON+%7C+DJANGO+%7C+EXPRESS.JS;BUILDING+THE+FUTURE+WITH+CODE+%F0%9F%9A%80" alt="Animated developer introduction"/>
@@ -99,38 +99,6 @@ I specialize in the MERN stack — MongoDB, Express.js, React, and Node.js — a
 <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezislam45&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Most Used Languages"/>
 
 </div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parvezislam45&bg_color=0D1117&color=00E5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=Parvez%20Islam%20Contribution%20Graph" alt="GitHub Contribution Activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=parvezislam45&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" alt="GitHub Achievement Trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 My Contributions
-
-<img width="100%" src="https://raw.githubusercontent.com/parvezislam45/parvezislam45/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub Contribution Snake"/>
-
-</div>
-
----
 
 <div align="center">
 
