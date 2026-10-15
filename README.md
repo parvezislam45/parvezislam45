@@ -1,86 +1,150 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                PREMIUM GITHUB PROFILE README                    -->
-<!--                Designed by Parvez Islam                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+  PARVEZ ISLAM — PREMIUM ANIMATED GITHUB PROFILE
+  Theme: Midnight • Electric Cyan • Violet
+-->
 
 <div align="center">
 
-  <!-- ═══════════════ HERO BANNER ═══════════════ -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:080B16,50:111C3D,100:00D9FF&text=PARVEZ%20ISLAM&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=62&animation=fadeIn" alt="Premium Banner"/>
-
-</div>
+<a href="https://github.com/parvezislam45">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,35:101B3D,70:312E81,100:06B6D4&text=PARVEZ%20ISLAM&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=61&animation=twinkling&stroke=22D3EE&strokeWidth=1" alt="Parvez Islam animated banner"/>
+</a>
 
 <br/>
 
-<!-- ═══════════════ PROFILE PHOTO + TYPING ═══════════════ -->
-<table align="center" border="0" cellpadding="20" cellspacing="0">
-<tr>
-<td align="center" width="35%" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=720&height=60&lines=Crafting+Digital+Experiences+%E2%9C%A8;Full+Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+React+%7C+Django+%7C+Node.js;Building+Scalable+%26+Modern+Applications;Turning+Ideas+Into+Reality+%F0%9F%9A%80" alt="Animated developer introduction"/>
 
-  <!-- 🔻 Your Profile Photo with Neon Glow 🔻 -->
-  <img 
-    src="https://raw.githubusercontent.com/parvezislam45/parvezislam45/main/assets/profile.png" 
-    width="220" 
-    height="220" 
-    alt="Parvez Islam"
-    style="border-radius:50%; border:4px solid #00D9FF; box-shadow: 0 0 0 4px #080B16, 0 0 0 8px #8B5CF6, 0 0 40px rgba(0,217,255,0.8);"
-  />
+<br/>
 
-  <br/><br/>
+<a href="https://parvezislam.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-22D3EE?style=for-the-badge&logo=vercel&logoColor=050816" alt="Portfolio"/>
+</a>
+<a href="https://github.com/parvezislam45?tab=repositories">
+  <img src="https://img.shields.io/badge/PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
+<a href="mailto:parvezislam45@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT-MESSAGE-111827?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Contact"/>
+</a>
 
-  <a href="https://parvezislam.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&labelColor=080B16" alt="Portfolio"/>
-  </a>
+<br/><br/>
 
-</td>
-<td align="left" width="65%" valign="middle">
+<img src="https://komarev.com/ghpvc/?username=parvezislam45&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
-  <h3>👋 Hey there, I'm Parvez Islam</h3>
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00D9FF&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+Node.js;Python+%7C+Django+%7C+Express.js;Turning+Ideas+Into+Digital+Products" alt="Typing"/>
+---
 
-  <p>
-    <b>Software Engineer</b> & <b>Full Stack Web Developer</b> from Bangladesh 🇧🇩<br/>
-    I craft modern, scalable, and user-focused digital products.<br/>
-    Passionate about <b>clean code</b>, <b>great UX</b>, and <b>real impact</b>.
-  </p>
-
-  <p>
-    <a href="https://github.com/parvezislam45"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00D9FF&labelColor=080B16" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/noor-hossain-parvez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=080B16" alt="LinkedIn"/></a>
-    <a href="mailto:parvezislam45@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=080B16" alt="Email"/></a>
-  </p>
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════ LIVE BADGES ═══════════════ -->
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=parvezislam45&style=for-the-badge&color=00D9FF&labelColor=080B16&label=PROFILE+VIEWS" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/parvezislam45?style=for-the-badge&color=8B5CF6&labelColor=080B16&logo=github&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/parvezislam45?style=for-the-badge&color=FFD700&labelColor=080B16&logo=github&label=STARS" alt="Stars"/>
+## ◈ ABOUT THE DEVELOPER ◈
 
 </div>
 
-<br/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezislam45&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="Top programming languages"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt="Divider"/>
+### Hey, I'm Parvez Islam! 👋
 
-<br/>
+I'm a Software Engineer and Full Stack Web Developer from **Bangladesh 🇧🇩**, passionate about building modern digital products, powerful backend systems, and elegant user interfaces.
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-<h2 align="center">🚀 About Me</h2>
+- 🔭 Currently building a **marketplace**
+- 🌱 Exploring modern web technologies and AI-powered applications
+- ⚡ Developing scalable APIs and responsive applications
+- 🤖 Interested in AI chatbots and real-time systems
+- 🎯 Focused on performance, clean architecture, and user experience
+- 🤝 Open to interesting projects and collaboration
 
-<table align="center" border="0" cellpadding="15">
-<tr>
-<td width="60%" valign="top">
+<br clear="right"/>
 
-```yaml
-name:       Parvez Islam
-role:       Software Engineer & Full Stack Developer
-location:   Bangladesh 🇧🇩
-focus:      Modern Web Apps · REST APIs · AI-Powered Products
-status:     🟢 Available for freelance & collaboration
-philosophy: "Clean code. Scalable systems. Real impact."
+---
+
+<div align="center">
+
+## ◈ MY TECH UNIVERSE ◈
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark&perline=8" alt="Frontend technology icons"/>
+
+### Backend Engineering & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,mongodb,mysql,sqlite,firebase&theme=dark&perline=9" alt="Backend and database icons"/>
+
+### Tools, Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,vercel,docker,linux&theme=dark&perline=8" alt="Developer tools and deployment icons"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ LIVE GITHUB ANALYTICS ◈
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parvezislam45&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" alt="GitHub profile statistics"/><img width="49%" src="https://streak-stats.demolab.com/?user=parvezislam45&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=parvezislam45&bg_color=0D1117&color=22D3EE&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ LANGUAGE BREAKDOWN ◈
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvezislam45&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" alt="Most used languages"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parvezislam45&theme=tokyonight&utcOffset=6" alt="GitHub productive time in Bangladesh time zone"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ ACHIEVEMENTS & TROPHIES ◈
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=parvezislam45&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=10" alt="GitHub achievements and trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ CONTRIBUTION SNAKE ◈
+
+<img width="100%" src="https://raw.githubusercontent.com/parvezislam45/parvezislam45/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ◈ LET'S CONNECT ◈
+
+<a href="https://github.com/parvezislam45">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/noor-hossain-parvez/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://parvezislam.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:parvezislam45@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+**Building today. Innovating tomorrow. 🚀**
+
+<sub>Crafted with passion by Parvez Islam · Bangladesh 🇧🇩</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:050816&height=120&section=footer&animation=twinkling" alt="Animated footer"/>
+
+</div>
